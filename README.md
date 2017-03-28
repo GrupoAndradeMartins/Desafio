@@ -73,7 +73,7 @@ Para o desafio você deve utilizar qualquer biblioteca ou framework desde que se
 - Persistência com ferramenta de ORM adequada.
 - Escolha livre de framework.
 - Prazo de 4 dias corridos.
-- Entregar um repo público (github ou bitbucket) com o código fonte.
+- Entregar um repositório público (github ou bitbucket) com o código fonte.
 - Entregar a API rodando em algum host (Heroku, AWS, etc).
 - Crie um **PROJECT.md** com a explicação de como devemos executar o projeto.
 
