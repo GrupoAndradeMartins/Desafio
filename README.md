@@ -20,10 +20,10 @@ Todos os endpoints devem aceitar e responder somente JSON, inclusive ao responde
         "address": [
             {
                 "street": "rua abc",
-                "number": "210"
-                "distric": "centro"
-                "city": "Belo Horizonte"
-                "state": "MG"
+                "number": "210",
+                "distric": "centro",
+                "city": "Belo Horizonte",
+                "state": "MG",
                 "country": "Brasil"
             }
         ]
