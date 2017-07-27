@@ -64,7 +64,7 @@ O que vamos avaliar:
 - Boas práticas.
 
 ## Stack
-Para o desafio você deve utilizar qualquer linguagem
+Para o desafio você pode utilizar qualquer linguagem
 
 
 ## Requisitos
