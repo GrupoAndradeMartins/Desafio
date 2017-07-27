@@ -64,7 +64,7 @@ O que vamos avaliar:
 - Boas práticas.
 
 ## Stack
-Para o desafio você deve utilizar qualquer biblioteca ou framework desde que seja na linguagem python
+Para o desafio você deve utilizar qualquer linguagem
 
 
 ## Requisitos
